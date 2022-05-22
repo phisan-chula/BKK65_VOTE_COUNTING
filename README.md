@@ -1,6 +1,5 @@
 # BKK65_VOTE_COUNTING
 
-Accessing GForm reponses :  "https://docs.google.com/spreadsheets/d/1dWQ0SVv1QAIqrGAekXtQkxEsulv6SNK4qrb0HOJjC24/gviz/tq?tqx=out:csv&sheet=Form%20responses%201" ...
 Writing cache "CACHE/BallotCount.bz2"...
 GForm Reponse updated at   : 22:58<br/>
 OnePage processed at       : 23:29<br/>
@@ -19,7 +18,7 @@ Estimated BMA-2565 Voters : 2,228,737 ( from BBKK@22:00 )
 <br/>
 
 
-![alt text](https://github.com/phisan-chula/BKK65_VOTE_COUNTING/blob/main/Front_End_BBKK_Vote_Count.PNG?raw=true)
+![alt text]([https://github.com/phisan-chula/BKK65_VOTE_COUNTING/blob/main/Front_End_BBKK_Vote_Count.PNG](https://github.com/phisan-chula/BKK65_VOTE_COUNTING/blob/main/BarGraph_SumVote.png)?raw=true)
 
 https://forms.gle/hYtfPodfKX1MZh337
 ![alt text](https://github.com/phisan-chula/BKK65_VOTE_COUNTING/blob/main/Front_End_BBKK_Vote_Count.PNG?raw=true)
