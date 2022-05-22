@@ -1,13 +1,12 @@
 # BKK65_VOTE_COUNTING
 
-Reading from cached "CACHE/BallotCount.bz2"...
 GForm Reponse updated at   : 20:29<br/>
-OnePage processed at       : 20:35<br/>
+OnePage processed at       : 20:38<br/>
 Number of GFORM responses  : 2,565<br/>
 Number of reporting  units : 1,848 of 6,817...<br/>
 
 Plotting BarGraph_SumVote.png.............<br/>
-
+Estimated BMA-2565 Voters : 2,169,597 ( from BBKK@18:50 )
 | Name      | CurVote_   | perc_   | BMA_Votes_   |
 |-----------|------------|---------|--------------|
 | Wirote    | 63,296     | 11.0%   | 239,466      |
